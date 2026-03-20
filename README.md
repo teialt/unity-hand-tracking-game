@@ -1,2 +1,2 @@
 # unity-hand-tracking-game
-A game by unity engine and leap-motion hand tracking device.
+A hand-tracking game powered by Unity 3D. Hand information could be input by LeapMotion device. 
