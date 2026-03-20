@@ -6,6 +6,12 @@
 [Ll]ogs/
 UserSettings/
 
+!docs/Build/
+!docs/Build/**
+!docs/TemplateData/
+!docs/TemplateData/**
+!docs/index.html
+
 MemoryCaptures/
 Recordings/
 
